@@ -2,6 +2,18 @@
 
 Dream-Nest is a modern property rental and management platform built with Next.js, TypeScript, and MongoDB. It provides a seamless experience for both property owners and tenants.
 
+![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180106.png) 
+
+![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180121.png) 
+
+![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180223.png)
+
+![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180258.png) 
+
+![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180241.png) 
+
+![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180519.png) 
+
 ## Features ✨
 
 ### For Property Owners
@@ -38,7 +50,7 @@ Dream-Nest is a modern property rental and management platform built with Next.j
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/dream-nest.git
+   git clone https://github.com/pranayhaldiya/dream-nest.git
    cd dream-nest
    ```
 
@@ -51,27 +63,24 @@ Dream-Nest is a modern property rental and management platform built with Next.j
    Create a `.env` file in the root directory with:
    ```
    DATABASE_URL=your_mongodb_url
-   NEXTAUTH_SECRET=your_secret
-   NEXTAUTH_URL=http://localhost:3000
-   GITHUB_ID=your_github_id
-   GITHUB_SECRET=your_github_secret
-   GOOGLE_CLIENT_ID=your_google_client_id
-   GOOGLE_CLIENT_SECRET=your_google_client_secret
-   NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=your_cloudinary_name
-   STRIPE_SECRET_KEY=your_stripe_secret_key
+   
    ```
 
-4. **Run the development server**
+4. **Run the client**
    ```bash
-   npm run dev
+   npm start
+   ```
+4. **Run the server**
+   ```bash
+   nodemon index.js
    ```
 
 ## Contributing 🤝
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+2. Create your feature branch
+3. Commit your changes 
+4. Push to the branch 
 5. Open a Pull Request
 
 ## License 📝
@@ -83,8 +92,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to all contributors who helped in building this project
 - Special thanks to the open-source community for providing amazing tools and libraries
 
-## Contact 📬
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/dream-nest](https://github.com/yourusername/dream-nest)
