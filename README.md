@@ -2,16 +2,23 @@
 
 Dream-Nest is a modern property rental and management platform built with Next.js, TypeScript, and MongoDB. It provides a seamless experience for both property owners and tenants.
 
+## Screenshots
+### Homepage
 ![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180106.png) 
 
+### Signup Page
 ![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180121.png) 
 
+### Property Selection
 ![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180223.png)
 
+### Calendar Selection
 ![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180258.png) 
 
+### Hosting Property
 ![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180241.png) 
 
+### Creating Property Listing
 ![Dream-Nest](https://github.com/PranayHaldiya/Dream-Nest/blob/main/client/public/Screenshot%202025-02-25%20180519.png) 
 
 ## Features ✨
@@ -35,16 +42,8 @@ Dream-Nest is a modern property rental and management platform built with Next.j
 
 ## Tech Stack 🛠️
 
-- **Frontend:** Next.js 13, TypeScript, Tailwind CSS
-- **Backend:** Next.js API Routes
-- **Database:** MongoDB with Mongoose
-- **Authentication:** NextAuth.js
-- **Image Storage:** Cloudinary
-- **Payments:** Stripe
-- **Maps:** Leaflet
-- **Forms:** React Hook Form
-- **State Management:** Zustand
-- **Styling:** Tailwind CSS, shadcn/ui
+MongoDB, Express.js, React, Node.js (MERN), JWT, Bcrypt,
+Redux, Mongoose.
 
 ## Getting Started 🚀
 
